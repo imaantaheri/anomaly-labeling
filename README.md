@@ -1,7 +1,7 @@
 # anomaly-labeling
 This code develops a dash app for traffic anomalous data labeling
 
-This app is created using dash from Plotly. Traffic data (volume, density) of a six month period from a specific location is presented to the users and they can select the abnormal (anomalous) points that they are seeing in each plot. 
+The app is created using dash from Plotly. Traffic data (volume, density) of a six month period from a specific location is presented to the users and they can select the abnormal (anomalous) points that they are seeing in each plot. 
 
 All data related to any specific time interval (e.g. 10:00: AM) is shown to the user so they can judge the abnormality of a point by comparing it to its counterparts.
 
