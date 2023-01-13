@@ -7,6 +7,4 @@ All data related to any specific time interval (e.g. 10:00: AM) is shown to the 
 
 The points with more distances to their counterparts will be more selected by the users so we can make sure that they have a higher probability to be anomalous.
 
-A deployed version of this code with 7 tasks (each task include data of three different locations) is available at http://labeling-version1.herokuapp.com/
-
 ![image](https://user-images.githubusercontent.com/112522995/187570834-9fa99a1d-0e84-483f-bbf9-d96c28475419.png)
