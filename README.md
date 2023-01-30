@@ -7,4 +7,6 @@ All data related to any specific time interval (e.g. 10:00: AM) is shown to the 
 
 The points with more distances to their counterparts will be more selected by the users so we can make sure that they have a higher probability to be anomalous.
 
+[![image](https://user-images.githubusercontent.com/112522995/187570834-9fa99a1d-0e84-483f-bbf9-d96c28475419.png)](https://www.youtube.com/watch?v=I7wv8SyDsaQ&t=6s)
+
 ![image](https://user-images.githubusercontent.com/112522995/187570834-9fa99a1d-0e84-483f-bbf9-d96c28475419.png)
