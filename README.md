@@ -9,4 +9,3 @@ The points with more distances to their counterparts will be more selected by th
 
 [![image](https://user-images.githubusercontent.com/112522995/187570834-9fa99a1d-0e84-483f-bbf9-d96c28475419.png)](https://www.youtube.com/watch?v=I7wv8SyDsaQ&t=6s)
 
-![image](https://user-images.githubusercontent.com/112522995/187570834-9fa99a1d-0e84-483f-bbf9-d96c28475419.png)
